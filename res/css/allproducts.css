@@ -1,0 +1,14 @@
+h4 {
+	color: blue;
+	padding-top: 5%;
+	font-size: 110%;
+}
+footer {
+	background-color: lightgray;
+}
+div.social-icons {
+	color: blue;
+}
+div.social-icons p {
+	color: black;
+}

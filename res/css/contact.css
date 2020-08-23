@@ -1,0 +1,12 @@
+body {
+  background-color: lightgray;
+}
+h2 {
+  color: blue;
+}
+div.social-icons {
+	color: blue;
+}
+div.social-icons p {
+	color: black;
+}
